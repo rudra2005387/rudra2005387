@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack & Systems Developer | Building Real Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Vector+Database+Developer;Systems+Engineer;Full+Stack+Developer;RAG+Systems+Builder&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Systems+Engineer;Full+Stack+Developer&center=true&width=520&height=45">
 </p>
 
 <p align="center">
