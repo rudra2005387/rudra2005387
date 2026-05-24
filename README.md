@@ -126,7 +126,7 @@
 ---
 
 ## 🔥 Projects
--* 🚀 **VectorDB** – Custom vector database with HNSW + RAG (10K+ embeddings)
+* 🚀 **VectorDB** – Custom vector database with HNSW + RAG (10K+ embeddings)
 * ⚡ **DPI Engine** – Real-time packet analyzer (1000+ packets/sec)
 * 🌐 **RentGo** – Airbnb-style platform (47 APIs, Redis, Stripe, Socket.io)
 * 💳 **UPI Offline Mesh** – Offline UPI payment system for seamless peer-to-peer transactions without internet connectivity
